@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="MapTiles">
+      <UniqueIdentifier>{2a9bd961-7dfe-4512-bed9-1e88e0dd5706}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="mapTile_001.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_002.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_003.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_004.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_005.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_006.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_007.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_008.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_009.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_010.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_011.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_012.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_013.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_014.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_015.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_016.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_017.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_018.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_019.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_020.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_021.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_022.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_023.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_024.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_025.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_026.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_027.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_028.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_029.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_030.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_031.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_032.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+    <Image Include="mapTile_033.png">
+      <Filter>MapTiles</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
